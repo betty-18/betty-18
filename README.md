@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Betty
 - 👩‍💻 I’m interested in web development
-- 🌱 I’m good at HTML, CSS, C Programming and JavaScript 
-- 💞️ I’m looking to collaborate on web development and design
+- 💻 I’m good at HTML, CSS, C Programming and JavaScript 
+- 🤝 I’m looking to collaborate on web development and design
 - 📫 How to reach me: You could send an email via beajsteve@gmail.com
 
 <!---
